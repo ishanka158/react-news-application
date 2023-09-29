@@ -32,5 +32,3 @@ const NewsList = () => {
   );
 };
 export default NewsList;
-
-//  157eb9daa307466f9d510b64c4c8b381
